@@ -6,3 +6,5 @@ Olá! Me chamo Lácio, tenho 24 anos e atualmente curso Análise e Desenvolvimen
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Lacio15&show_icons=true&theme=ocean_dark"/>
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lacio15&layout=compact&theme=ocean_dark"/>
 </div>
+
+![snake animation](https://github.com/<seu Lacio15>/<seu Lacio15>/blob/output/github-contribution-grid-snake2.svg)
